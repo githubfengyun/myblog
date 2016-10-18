@@ -1,7 +1,7 @@
 ---
 title: Jenkins(基本篇)  - web前端项目自动化部署实例(基于linux系统)
 date: 2016-10-16 20:26:45
-tags:
+tags: [Javascript, Angile develop]
 ---
 
 ## 部署的步骤
